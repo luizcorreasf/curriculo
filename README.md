@@ -1,4 +1,4 @@
-# Curriculo
+# Currículo
 
 ## Luiz Fernando Corrêa da Silva Filho
 ### Especialista em Infraestrutura de TI
