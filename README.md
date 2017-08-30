@@ -53,6 +53,7 @@
 * Firewall: Cisco ASA, Checkpoint, FortiGate, Endian, OpenSWAN, IPTables, ISA Server
 * Telefonia IP: MITEL, Asterisk
 * Linguagens: Perl, Awk, Shell Script, PHP, HTML, Python
+* Automatização e versionamento: Docker, Git, Jenkins, Puppet, Ansible
 
 ### Experiência Profissional
 
@@ -128,7 +129,7 @@ em grandes contratos, trabalhando com framework ITIL, realizando diagnósticos e
 * Rafael Proner – ex-Analista de TI de E&amp;P na OGX Petróleo e Gás – rproner@gmail.com
 * Fábio Gomes – ex-Gerente de TI de E&amp;P na OGX Petróleo e Gás – fabio.carv@gmail.com
 
-### Remuneraçao
+### Remuneração
 
-* Ultimo salario: R$ 13.300,00 CLT + Benefícios
-* Pretensao: Aberto a negociacao CLT ou PJ
+* Ultimo salário: R$ 13.300,00 CLT + Benefícios
+* Pretensão: Aberto a negociação CLT ou PJ
