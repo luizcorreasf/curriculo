@@ -14,7 +14,7 @@
 * Atuação como Gerente de TI, Coordenador de TI ou Especialista de TI
 * Boa expressão oral e escrita, capacidade de comunicação clara e objetiva.
 * Perfil pessoal: pesquisador, técnico, observador, objetivo, pragmático.
-* Linkedin: https://www.linkedin.com/in/luiz-correa- 973315bb
+* Linkedin: https://www.linkedin.com/in/luiz-correa-973315bb
 
 ### Formação
 
