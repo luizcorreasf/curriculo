@@ -4,7 +4,6 @@
 ### Especialista em Infraestrutura de TI
 
 * Divorciado ▪ Brasileiro ▪ 35 anos ▪ duas filhas
-* (21) 98242-0316 ▪ (21) 99928-1157
 * luiz.correa.sf@gmail.com
 * Meier - Rio de Janeiro - RJ
 
@@ -117,19 +116,3 @@ em grandes contratos, trabalhando com framework ITIL, realizando diagnósticos e
 ### Idiomas
 * Inglês Intermediário (cursando 2º módulo do curso Cultura Express – Cultura Inglesa)
 * Espanhol Básico
-
-### Referências Profissionais
-* Carla Figueiredo – Gerente de RH (Stefanini IT Solutions) – cafsilva@stefanini.com
-* Carlos Moller – ex-Gerente de Suporte na Stefanini IT Solutions – carlos@schroedermoller.com.br
-* Mauricio Gianoti - ex-Diretor na Stefanini IT Solutions - mauricio.gianoti@resourceit.com
-* João Paulo Gonsiro Nacao – Gerente de Suporte (Globo.com) – jnacao@corp.globo.com
-* Gabriel Branco – Coordenador de TI (Globo.com) – gabriel@corp.globo.com
-* Raul Motta Jr. – CEO (Focus Securitizadora) – rmotta@focusportal.com.br
-* Márcia Marinho – Gerente Geral de Informações e Sistemas (ANS) – marcia.marinho@ans.gov.br
-* Rafael Proner – ex-Analista de TI de E&amp;P na OGX Petróleo e Gás – rproner@gmail.com
-* Fábio Gomes – ex-Gerente de TI de E&amp;P na OGX Petróleo e Gás – fabio.carv@gmail.com
-
-### Remuneração
-
-* Ultimo salário: R$ 13.300,00 CLT + Benefícios
-* Pretensão: Aberto a negociação CLT ou PJ
