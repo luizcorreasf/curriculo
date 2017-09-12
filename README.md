@@ -52,11 +52,11 @@
 * Firewall: Cisco ASA, Checkpoint, FortiGate, Endian, OpenSWAN, IPTables, ISA Server
 * Telefonia IP: MITEL, Asterisk
 * Linguagens: Perl, Awk, Shell Script, PHP, HTML, Python
-* Automatização e versionamento: Docker, Git, Jenkins, Puppet, Ansible
+* Automatização e versionamento: Docker, Git, Jenkins, Puppet, Ansible, SVN
 
 ### Experiência Profissional
 
-#### Especialista de TI - OGX Petróleo e Gás (Fevereiro/2014 até a presente data)
+#### Especialista de TI - OGX Petróleo e Gás (Fevereiro/2014 a Setembro/2017)
 * Gerenciamento de toda a infraestrutura de TI onshore e offshore, com forte atuação em armazenamento
 (storage), soluções de backup, telecomunicações, sistemas operacionais, virtualização, investigação de
 gargalos de rede, design e implementação de ambientes de dev e produção, suporte a sistemas de E&amp;P,
