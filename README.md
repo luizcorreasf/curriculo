@@ -5,7 +5,7 @@
 
 * Divorciado ▪ Brasileiro ▪ 35 anos ▪ duas filhas
 * luiz.correa.sf@gmail.com
-* Meier - Rio de Janeiro - RJ
+* Santo Amaro - São Paulo - SP
 
 ### Perfil
 
